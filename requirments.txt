@@ -1,0 +1,20 @@
+# PyTorch and torchvision
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face Datasets
+datasets>=2.14.0
+
+# Image processing
+Pillow>=9.4.0
+opencv-python>=4.7.0
+
+# Numerical and scientific computing
+numpy>=1.23.0
+
+# Plotting and visualization
+matplotlib>=3.7.0
+tqdm>=4.64.0
+
+# CLI argument parsing (built-in but can add for clarity)
+argparse
