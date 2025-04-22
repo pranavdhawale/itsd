@@ -121,14 +121,14 @@ or contribute by creating a pull request or issue.
   <img src="https://avatars.githubusercontent.com/pranavdhawale?v=4" width="50px;" alt="Pranav Dhawale"/>
 </a>
 &nbsp;
-<a href="https://github.com/pranavdhawale">
+<a href="https://github.com/suryavemuri30">
   <img src="https://avatars.githubusercontent.com/suryavemuri30?v=4" width="50px;" border-radius="20%" alt="Surya Vemuri"/>
 </a>
 &nbsp;
-<a href="https://github.com/pranavdhawale">
+<a href="https://github.com/28aryan">
   <img src="https://avatars.githubusercontent.com/28aryan?v=4" width="50px;" border-radius="20%" alt="Aryan Chauhan"/>
 </a>
 &nbsp;
-<a href="https://github.com/pranavdhawale">
+<a href="https://github.com/vidhi-damani">
   <img src="https://avatars.githubusercontent.com/vidhi-damani?v=4" width="50px;" border-radius="20%" alt="Vidhi Damani"/>
 </a>
